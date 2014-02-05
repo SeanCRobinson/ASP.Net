@@ -1,0 +1,10 @@
+C:\Users\200133665\Desktop\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.dll
+C:\Users\200133665\Desktop\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.pdb
+C:\Users\200133665\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.csprojResolveAssemblyReference.cache
+C:\Users\200133665\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.dll
+C:\Users\200133665\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.pdb
+C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.dll
+C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.pdb
+C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.dll
+C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.pdb

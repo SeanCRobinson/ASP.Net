@@ -1,0 +1,53 @@
+﻿Body {
+    background-color: whitesmoke;
+}
+
+ul {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    background-color: purple;
+}
+
+ul a {
+    width: 6em;
+    text-decoration: none;
+    color: white;
+    background-color: purple;
+    padding: 0.2em 0.6em;
+    border-right: 1px solid white;
+}
+
+    a:hover {
+        background-color: #ff3300;
+    }
+
+li {
+    display: inline;
+}
+
+img {
+    float:left;
+    height: 240px;
+    width: 240px;
+}
+
+.mainContainer {
+    background-color: #dddddd;
+    float: left;
+    width: 1000px;
+}
+
+.padLeft {
+    position: relative;
+    left: 10px;
+}
+
+#BodyContent {
+    position: relative;
+    float: left;
+    left: 4px;
+    width: 500px;
+    top: 2px;
+}
