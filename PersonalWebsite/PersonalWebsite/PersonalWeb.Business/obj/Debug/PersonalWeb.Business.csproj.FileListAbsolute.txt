@@ -1,0 +1,7 @@
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\bin\Debug\PersonalWeb.Business.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\bin\Debug\PersonalWeb.Business.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\obj\Debug\PersonalWeb.Business.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\obj\Debug\PersonalWeb.Business.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\obj\Debug\PersonalWeb.Business.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\bin\Debug\DataAccess.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.Business\bin\Debug\DataAccess.pdb

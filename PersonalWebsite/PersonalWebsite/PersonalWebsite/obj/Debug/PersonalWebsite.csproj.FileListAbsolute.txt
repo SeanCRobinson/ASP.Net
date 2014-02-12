@@ -8,3 +8,12 @@ C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\P
 C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.csprojResolveAssemblyReference.cache
 C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.dll
 C:\Users\student\Downloads\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWebsite.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\obj\Debug\PersonalWebsite.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWeb.Business.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\PersonalWeb.Business.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\DataAccess.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWebsite\bin\DataAccess.pdb

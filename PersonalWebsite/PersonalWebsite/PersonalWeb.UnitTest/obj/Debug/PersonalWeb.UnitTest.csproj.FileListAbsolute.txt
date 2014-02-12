@@ -1,0 +1,10 @@
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\PersonalWeb.UnitTest.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\PersonalWeb.UnitTest.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\PersonalWeb.Business.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\PersonalWeb.Business.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\obj\Debug\PersonalWeb.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\obj\Debug\PersonalWeb.UnitTest.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\obj\Debug\PersonalWeb.UnitTest.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\PersonalWeb.UnitTest.dll.config
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\DataAccess.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\PersonalWeb.UnitTest\bin\Debug\DataAccess.pdb

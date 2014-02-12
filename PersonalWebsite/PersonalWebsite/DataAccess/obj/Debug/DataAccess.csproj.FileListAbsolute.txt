@@ -1,0 +1,5 @@
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\student\Documents\GitHub\ASP.Net\PersonalWebsite\PersonalWebsite\DataAccess\obj\Debug\DataAccess.pdb
