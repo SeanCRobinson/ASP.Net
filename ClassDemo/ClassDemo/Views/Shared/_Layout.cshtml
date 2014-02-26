@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="mainContainer">
+
+        <img src="/images/CUSA.jpg" />
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/home/two">News</a></li>
+            <li><a href="/home/three">Contact</a></li>
+            <li><a href="/home/four">Page Four</a></li>
+        </ul>
+        <div id="BodyContent">
+            @RenderBody()
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>
